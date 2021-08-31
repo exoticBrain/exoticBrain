@@ -2,5 +2,5 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on a small project in C++
-- 📫 How to reach me https://twitter.com/exotic_brain
+- 📫 How to reach me https://twitter.com/exotic_brain || https://www.linkedin.com/in/tariq-mojahdi/
 
